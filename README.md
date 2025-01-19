@@ -39,10 +39,10 @@ python3 main.py data.csv '2,1,1,1,1' '+,-,+,+,+' out.csv
 
 The input CSV file should have the following format:
 
-| Criteria1 | Criteria2 | Criteria3 | Criteria4 | Criteria5 |
-|-----------|-----------|-----------|-----------|-----------|
-| Value1    | Value2    | Value3    | Value4    | Value5    |
-| ...       | ...       | ...       | ...       | ...       |
+| Identifier | Criteria1 | Criteria2 | Criteria3 | Criteria4 | Criteria5 |
+|--|-----------|-----------|-----------|-----------|-----------|
+| Id1 | Value1    | Value2    | Value3    | Value4    | Value5    |
+| ... | ...       | ...       | ...       | ...       | ...       |
 
 ## Output
 
